@@ -1,3 +1,7 @@
+package entity;
+
+import entity.Duck;
+
 /**
  * @author Rosemary
  * @Description 红头鸭
